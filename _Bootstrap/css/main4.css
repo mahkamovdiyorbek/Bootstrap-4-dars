@@ -1,0 +1,38 @@
+.jumbotron{
+    margin-top: 50px;
+}
+
+body{
+    background-color: #ea7086;
+}
+
+span{
+    margin-top: 10px;
+    color: #ea7086;
+}
+.row-2{
+    margin-top: -60px;
+    width: 635px;
+    height: 60px;
+}
+p{
+    margin-top: 18px;
+}
+.col-md-12{
+    margin-top: -5px;
+    margin-left: -17px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.alert{
+    margin-top: 20px;
+}
+b{
+    color: #ea7086;
+}
+.line-height{
+    line-height: 3px;
+}
+.margin-top{
+    margin-top: 100px;
+}

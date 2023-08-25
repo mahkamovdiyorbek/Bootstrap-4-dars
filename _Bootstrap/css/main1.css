@@ -1,0 +1,33 @@
+.botton{
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 1050px;
+    border-color: red;
+}
+.text{
+    margin: 0 auto;
+}
+.jumbotron{
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    width: 1000px;
+    height: 400px;
+    text-align: center;
+    background-color: dodgerblue;
+}
+.botton1{
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    top: 280px;
+    left: 350px;
+    border-color: white;
+    background-color: initial;
+}
+.text1{
+    margin-top: 50px;
+    color: white;
+}
